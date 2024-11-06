@@ -2,132 +2,84 @@
 <!-- This section is where you will replace the link to your transparent logo, the title of your project, and the very short desciptor of your project -->
 <!-- If you used Canva to make your icon and don't want to pay for a background remover, you can use the website https://www.remove.bg/ to do so -->
 <p align="center">
-  <img alt="Template Logo" src="media/logos/Transparent Version.png" width="" height="350" />
-  <h1 align="center">Project Template (Example: A Game that Emphasizes the Importance of Programming Statements)</h1>
-  <p align="center">A project for ... by team ... </p>
+ 
+  
+<img src = "https://github.com/user-attachments/assets/32767d89-7eb6-4deb-9c14-c918696917e7" width="350"/>
+
+  <h1 align="center">Lost In The Sauce (A hands on experience with Unity and programming fundamentals)</h1>
+  <p align="center">A project for middle school to college by team Sauce </p>
 </p>
 <!-- the emojis are not set in stone! If you'd like you can remove them entirely or select your own from https://gist.github.com/rxaviers/7360908 you are welcome to -->
 
-## :loudspeaker: About
-The objective of the workshop is  ...
+## :loudspeaker: About:
+Lost In The Sauce is an unity made game that aims to teach basic coding fundamentals such as if and else statements as well as for loops and game development within the unity engine.
 <!-- You can look at other TAP projects if you need a better idea of how to describe your workshops objectives -->
 
-This workshop has participants do ...
+This workshop has participants do ..
+Lost In The Sauce is an unity made game that aims to teach basic coding fundamentals such as if and else statements as well as for loops and game development within the unity engine. 
 
 ## :bulb: Project Information
-<!-- 
-Your Options for target audience: 
-  - High School
-  - College
-  - Middle School
-  - K-12
-  - Non-Stem
-  - Undergraduate
-You can select from a range of audiences or a single auidience. Examples: 
-    Middle School - College 
-    High School - College
-    K-12
-  You will be presenting most often to your peers who are taking introductory technology classes, so more often than not you should be including college in your target audience range. 
--->
-* <b>Difficulty Level:</b> Choose your workshop difficulty (Beginner/Intermediate/Advanced)
-* <b>Target Audience:</b> K12 - College (edit .md file to view all options presented in the markdown comments)
-* <b>Duration of Workshop:</b> How long your workshop takes (1 hour, 30 minutes, etc.) 
-* <b>Needed Materials:</b> Materials needed to do your workshop (computer with keyboard, sphero, etc.)
-* <b>Learning Outcomes:</b> The primary goal of this project is to teach participants ...
-* <b>Your Main Technology</b> Name of Technology and then a brief descriptor. You will go more in depth on the technology used in a different section. 
+* <b>Difficulty Level:</b> Intermediate
+* <b>Target Audience:</b> highschool - College
+* <b>Duration of Workshop:</b> 3 hours
+* <b>Needed Materials:</b> Computer (windows 11 or 10)
+* <b>Learning Outcomes:</b> The primary goal of this project is to teach participants the basic fundamentals of coding and how it relates to game development.
+* <b>Your Main Technology</b> Windows computer, keyboard, Unity engine, java. 
 * [Technology Ambassador Program](https://tapggc.org/) <b>(TAP)</b> is a project-based class that provides a collaborative environment for students to work with their fellow classmates on a semester-long project using technologies of their choice. TAP strives to increase participation in IT through numerous outreach activities and workshops that are designed to showcase the creative and fun side of technology.
 <!-- Commercial Video stored in the Media folder will be linked here -->
 
-[Commercial Video](https://github.com/TAP-GGC/NinjaTurtles/assets/157164928/94b037a6-8912-44da-8a8c-84c0b8a0afb8)
+[commercial](https://github.com/user-attachments/assets/11dc4ed0-8707-4076-97a4-d0951b16afc8)
 
 <!-- videos can also be dragged and dropped into markdown files if you want them embedded -->
 
-## :pencil2: Team: Team Name
+## :pencil2: Creators:
 
-<!-- Use the team photo of your choice once youve uploaded it to the team photo folder within the media folder -->
-<img alt="art featuring batman, wonder woman, and superman" src = "media/team photos/Team Photo.JPG" width="" height="300">
-
-> (From left to right: Batman,  Wonder Woman, Superman.)
+Taisann Kham,  Brittany Giordano, Edgar Alvarez.
 <!-- replace with full names of your team members -->
-
-* Team Member 1
-* Team Member 2
-* Team Member 3
-* Team Member 4
 
 ## :mortar_board: Advisors
 <!-- name of the two professors overseeing your TAP class -->
-* Dr. John Doe
-* Dr. Jane Doe
+* Dr. Cengiz Gunay
+* Dr. Anca Doloc Mihu
 
 
 ## :page_with_curl: Project Description
-A more thorough description of your project. Not a full walkthrough, but describe the different sections of your project and the gist of what participants will be doing when interacting with it and what they'll learn.
-
-## :memo: Publications
-<!-- team members, then professors/advisors. "Name of Publication", event, month and day, year, Georgia Gwinnett College. -->
-1. Team Member, Team Member, Team Member, John Doe, Jane Doe. "A Real Fake Workshop", Fake Event, April 1, 2024, Georgia Gwinnett College.  
+Lost In The Sauce is an interactive 2D platformer that aims to teach students about the fundamentals of coding such as if and else statements and relating it to game development within the unity engine. In the game the player will have to jump along walls and platforms in order to progress through the upward scrolling level. As the player moves through the game, their task will be to collect as many points as they can (collect the falling ice cream cones) before they reach the bottom of the screen which ends the game. Before students get to play the game, they must first import the games files into Unity Hub and run the code. This project is meant to teach students the basics of C# coding including basic if/else statements as well as for loops. This game will help students understand how games are developed with the use of coding, and is meant to inspire the students to try and create their own code as well as games.
 
 ## :open_hands: Outreach
-<i>List the outreach events your team has participated in. </i>
-
-Example:
-
-1. <b>TAP Expo</b>, April 1, 2021, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP.
-2. <b>Class Workshops</b>, April 13-15, 2021, Georgia Gwinnett College: to promote the IT field to non-IT students.
+<b>Tap Expo</b></p>
+<img src= "https://github.com/user-attachments/assets/a72637dd-b094-4fbb-8ec3-a74587b4b3b3" width="300"/> </p>
+1. <b>TAP Expo</b>, April 1, 2019, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP. </p>
+<b>STaRS</b> </p>
+<img src= "https://github.com/user-attachments/assets/0ffd0a5e-f3d3-4c66-843a-875a455dedd9" width="300"> </p>
+2. <b>STaRS 2019</b>, April 9, 2019, Georgia Gwinnett College: to promote the IT field to non-IT students ranging from 3-5th.
 
 ## :mag_right: Similar Projects
-<i>Use this section to link to a project done in the TAP program that is related in some way to your own. This can be a sister project done during your TAP semester or a TAP project done in the past. Example: </i> 
-
-If you're interested in more workshops that utilize Scratch, check out [Space Mechanic](https://github.com/TAP-GGC/NinjaTurtles)!
+If you're interested in more workshops that utilize the Unity engine, check out [SliceIT](https://github.com/TAP-GGC/SliceIT)!
 
 ## :computer: Technology
-<i> Replace Scratch with whatever technology you're using and make sure to have a logo of that technology uploaded to the technology folder within the media folder. </i>
 <!-- be sure to use the alt text feature in case anybody viewing your repo is using  screen reader! you want your workshop to be as accessible as possible -->
 <p align="center">
-  <img alt="Scratch Logo" src = "media/technology/scratch logo.png" width="200" height="200"/>
+  <img src = "https://github.com/user-attachments/assets/bde7f70e-f21c-4bf6-af02-81b6c79b2b9f" width="500" height="300"/>
 </p>
 
-* [Scratch](https://scratch.mit.edu/) is a block-based programming language developed by the MIT Media Lab as an education tool for children to learn computing in a fun and interactive way.
-* Scratch has drag-and-drop interfaces. Unlike text-based programming language like Java or C where you physically type every line of code, in Scratch, you can drag and drop pre-made codes and organize them into an algorithm. It's like solving a jigsaw puzzle!
-* Explain why your team chose this technology for this workshop.
+* [Unity](https://unity.com/) is a powerful, cross-platform game engine used for creating 2D, 3D, augmented reality (AR), and virtual reality (VR) experiences. It offers a user-friendly development environment with a robust set of features including real-time rendering, physics engines, animation, and audio systems, making it suitable for both beginners and advanced developers. Unity supports a wide range of platforms, such as mobile, desktop, web, and consoles, allowing developers to build and deploy applications across various devices seamlessly. Additionally, it has a large asset store, extensive documentation, and an active community, which makes it easier to find resources, assets, and support for projects of any size. It's widely used in gaming but is also popular in other fields like education, architecture, simulation, and interactive media.
 
 <p align="center">
-<img src = "media/technology/block-based language.png" width ="400" height="200">
 </p>
 
 ## Project Setup/Installation 
-<i> This section is dedicated to linking to .md files in your documents/tutorial/ folder that will contain instructions on installation
 
-Your repo doesn't have to have every section used below. This is just an example so you can get an idea of what your own repo should look like</i>
+### Installing Unity Hub
+[Click here to view instructions](https://github.com/user-attachments/files/17636777/Installing.Unity.Hub.pdf)
 
-### Opening a blank Scratch page 
-[Click here to view instructions](/documents/tutorial%20materials/Opening%20a%20blank%20Scratch%20page.md)
 
-[Video with Scratch instructions](https://youtu.be/v-GUbj7DMEE)
 
-<!-- if your project uses scratch, you can reuse any of these instructions (be sure to include CS First alternatives) -->
-## CS First Installation Walkthrough
-[Click here to view instructions](/documents/tutorial%20materials/CS%20FIRST/CS%20First%20Walkthrough.md)
+### Setting up game in Unity Hub 
+[Click here to view instructions](https://ggcedu-my.sharepoint.com/:p:/g/personal/amahmic1_ggc_edu/EXsWR2G6zYhOm1X8VwsHGrQBesufFiL6HCCWjJn5S9HnYQ?e=zgbfL8)
 
-### Getting to the game 
-[Click here to view instructions](/documents/tutorial%20materials/Getting%20to%20the%20Game.md)
 
-## Usage
-<i> Describe HOW to use your game. </i> 
-Example: 
+## How To Play
 1. Press the Left arrow key to move to the left.
 2. Press the Right arrow key to move to the right.
-3. Press the Up arrow key to move up.
-4. Press the Down arrow key to move down.
-5. You may also replace the arrow keys with a Makey Makey. 
-
-## Short Demo Instructions 
-[Demo Video on how to install and play our game](https://youtu.be/mA80Aa55t-U)
-
-## Workshop Instructions 
-[Click here to view workshop walkthrough pdf file](/documents/tutorial%20materials/Scratch%20Workshop%20Walkthrough.pdf)
-
-[Our Game Workshop Video](https://youtu.be/Mtsre0iMStM)
-
-
+3. Press the Space key to move up.
