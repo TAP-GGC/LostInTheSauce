@@ -71,7 +71,8 @@ If you're interested in more workshops that utilize the Unity engine, check out 
 ## Project Setup/Installation 
 
 ### Installing Unity Hub
-[Click here to view instructions](https://github.com/user-attachments/files/17636777/Installing.Unity.Hub.pdf)
+[Click here to view instructions](https://github.com/user-attachments/files/17636777/Installing.Unity.Hub.pdf) <br>
+[Click here to view video intructions](https://github.com/user-attachments/assets/00514202-8540-42b9-94b1-b793dbd76e12)
 
 
 
