@@ -77,7 +77,8 @@ If you're interested in more workshops that utilize the Unity engine, check out 
 
 
 ### Setting up game in Unity Hub 
-[Click here to view instructions](https://ggcedu-my.sharepoint.com/:p:/g/personal/amahmic1_ggc_edu/EXsWR2G6zYhOm1X8VwsHGrQBesufFiL6HCCWjJn5S9HnYQ?e=zgbfL8)
+[Click here to view instructions](https://github.com/user-attachments/files/17842940/UnityHub.Game.Setup.2.pdf)
+
 
 
 ## How To Play
