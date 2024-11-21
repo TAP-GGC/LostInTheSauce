@@ -1,7 +1,9 @@
-﻿using System.Collections;
+//Importing libraries
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+//Class decloration, defined camerafollow class and inherits from Unity's MonoBehaviour base class. CameraFollow is now a Unity script that can be attached to a gameobject (our player)
 public class CameraFollow : MonoBehaviour
 {
     public Transform player;
