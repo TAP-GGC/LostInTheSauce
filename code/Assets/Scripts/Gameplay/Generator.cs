@@ -1,10 +1,13 @@
-﻿using System.Collections;
+//This script generates a procedurally expanding tile-based level for a Unity game. It manages walls, platforms, and coins based on the player's vertical position. The level dynamically adjusts as the player progresses.
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Tilemaps;
 
 public class Generator : MonoBehaviour
 {
+    // Variables for tile rendering, player tracking, and procedural generation configuration.
     public Tile pointTile;
     public Tile groundTile;
     public Tilemap Rendered;
@@ -33,6 +36,7 @@ public class Generator : MonoBehaviour
     // Start is called before the first frame update
     void Start()//Runs code only at the start
     {
+        // Initialize the player's position and set a test tile in the coin tilemap.
         playerYPos = (int)player.transform.position.y;
         CoinTM.SetTile(testDelete, pointTile);
         //DeleteBlock(testDelete);
@@ -41,6 +45,7 @@ public class Generator : MonoBehaviour
     // Update is called once per frame
     void Update()//Always runs code
     {
+        // Continuously generate walls and update platforms as the player moves up.
         genWalls();
         playerYPos = (int)player.transform.position.y;
         MaxHeight();//MaxHeight --> genPlatV2 --> Creates walls
@@ -48,9 +53,9 @@ public class Generator : MonoBehaviour
 
     private void genWalls()
     {
+        // Generate continuous left and right walls, extending slightly beyond the player's highest point.
         // have counter generates once it is passed.
         // keeps generating
-        // maybe add variables to make it more difficult with time
         for (int y = -4; y < highestYPoint + 20; y++)
         {
             leftWall = new Vector3Int(lwStartX, y, 0);
@@ -59,15 +64,14 @@ public class Generator : MonoBehaviour
             Rendered.SetTile(leftWall, groundTile);
             Rendered.SetTile(rightWall, groundTile);
         }
-        //do
-        //{
-        //    Rendered.SetTile(midWall, groundTile);
-        //} while (WallInMiddle == true);
+     
     }
 
     //WALLS (-6 Left --> -1 Middle --> 4 Right)
     public void genPlatV2()
     {
+    // Generate platforms and coins dynamically based on a random number.
+    // Includes logic for left, right, and middle wall/platform placement.
         int y = highestYPoint + 10;
         int randNum = Random.Range(0, 20);
         print(randNum);
@@ -75,7 +79,6 @@ public class Generator : MonoBehaviour
         if (randNum == 1)
         {
             for (int lwx = -5; lwx <= -4; lwx++) //LeftWall
-                                                 //for (int x = -5; x <= 1; x++) //LeftWall TAISANN'S EDIT
             {
                 Debug.Log("init left wall");
                 platform = new Vector3Int(lwx, y, 0);
