@@ -28,9 +28,6 @@ public class PlayerControl : MonoBehaviour
     public string jumpButton = "Jump";
     public string horiztonal = "Horizontal";
 
-    //public int iceCreamCount;
-    //public GameObject tilemapCoin;
-    //Tilemap tilemap;
     
 
     void Awake()
@@ -41,18 +38,7 @@ public class PlayerControl : MonoBehaviour
 
     void Start()
     {
-        //tilemap = tilemapCoin.GetComponent<Tilemap>();
-
-        //if (isRegular)
-        //{
-        //    PlayerPrefs.SetInt("IceCream", 0);
-        //    iceCreamCount = 0;
-        //}
-        //if (isGold)
-        //{
-        //    PlayerPrefs.SetInt("Gold", 0);
-        //    goldCount = 0;
-        //}
+        
     }
 
     void Update()
@@ -136,22 +122,7 @@ public class PlayerControl : MonoBehaviour
             onWall = true;
             animator.SetBool("OnWall", true);
         }
-        //Debug.LogWarning(col.gameObject.tag);
-        //if (col.gameObject.CompareTag("coin"))
-        //{
-        //    Debug.LogWarning("coin should Snatch");
-        //    Vector3Int hitPos = Vector3Int.zero;
-        //    if (tilemapCoin == col.gameObject)
-        //    {
-        //        foreach (ContactPoint2D hit in col.contacts)
-        //        {
-        //            hitPos.x = (int)hit.point.x;
-        //            hitPos.y = (int)hit.point.y;
-        //            tilemap.SetTile(tilemap.WorldToCell(hitPos), null);
-        //            iceCreamCount++;
-        //        }
-        //    }
-        //}    
+        
     }
 
 
