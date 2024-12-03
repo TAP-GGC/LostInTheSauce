@@ -12,7 +12,7 @@ public class SpawnIceCream : MonoBehaviour
     public int goldYSpawn = 8;
     public bool isWut;
     public bool isMainMenu;
-    public bool isTimed;//Comment out to see it disappear in Inspector
+    public bool isTimed;
     private float timeCount = 0.0f;
     private float timeThreshold = 0.0f;
     private int totalIceCream;
@@ -21,7 +21,7 @@ public class SpawnIceCream : MonoBehaviour
     {
         PlayerPrefs.SetInt("PrefabCount", 0);
     }
-    private void createIceCream()//x = -5/4
+    private void createIceCream()
     {
         if (isWut)
         {
@@ -37,7 +37,7 @@ public class SpawnIceCream : MonoBehaviour
         }
     }
 
-    private void createGold()//x = -5/4
+    private void createGold()
     {
         itemYPos = (int)playerPos.position.y + 10;
         int randNum = Random.Range(-5, 4);
@@ -51,10 +51,10 @@ public class SpawnIceCream : MonoBehaviour
             timeCount = Time.time;
             if (timeCount > timeThreshold)//Creates ice cream every 0.5 seconds
             {
-                //createIceCream();//Uncomment out to enable
+               
                 timeThreshold += 0.5f;//Change the timeThreshold to change the time Ice Cream spawns
             }
-            //createIceCream();//Keeps creating ice cream
+          
             if ((int)playerPos.position.y > maxY)//Only creates ice cream when player goes above their highest point
             {
                 maxY = (int)playerPos.position.y;
