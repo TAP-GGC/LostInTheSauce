@@ -1,7 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.SceneManagement;
+using UnityEngine.SceneManagement; // Required for managing scene loading
+
 
 public class LoadScene : MonoBehaviour
 {
@@ -11,7 +12,7 @@ public class LoadScene : MonoBehaviour
         SceneManager.LoadScene(level);
     }
 
-    public void Exit()
+    public void Exit() // Method to quit the application
     {
         Application.Quit();
     }
