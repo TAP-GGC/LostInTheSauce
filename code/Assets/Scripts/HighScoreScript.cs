@@ -2,20 +2,19 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-
+// Manages the game's high score system, including ranking and UI updates
 public class HighScoreScript : MonoBehaviour
 {
     //ScoreObjects have (string name, int score)
-    ArrayList highScoreArray = new ArrayList();
-    public List<ScoreObject> highScoreList = new List<ScoreObject>();
-    public int rank;
+    ArrayList highScoreArray = new ArrayList();    // Creating an arraylist to keep track of all high scores
+    public List<ScoreObject> highScoreList = new List<ScoreObject>();    // List to use high score objects
+    public int rank; // Initializes rank variable used to rank high scores
     Text scoreString;
-    string playerName;
-    int score;
+    string playerName; // Initializes player name
+    int score; // Variable for score
 
     void Start()
     {
-        //PlayerPrefs.DeleteAll();//This is to restart the High Scores
         scoreString = GetComponent<Text>();
         List<ScoreObject> highScoreList = new List<ScoreObject>();
         if (!PlayerPrefs.HasKey("Rank1Name"))
