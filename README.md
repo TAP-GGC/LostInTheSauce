@@ -80,7 +80,8 @@ If you're interested in more workshops that utilize the Unity engine, check out 
 [Click here to view instructions](https://github.com/user-attachments/files/17842940/UnityHub.Game.Setup.2.pdf)
 
 ### Workshop PowerPoint
-[Lost in the Sauce Workshop](https://github.com/user-attachments/files/18041151/Lost.in.the.Sauce.Workshop.pptx)
+[Lost in the Sauce Workshop](https://github.com/user-attachments/files/18041171/Lost.in.the.Sauce.Workshop.pdf)
+
 
 
 ## How To Play
