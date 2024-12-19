@@ -52,13 +52,21 @@ public class HighScoreScript : MonoBehaviour
                 //string once = PlayerPrefs.GetString("LoopOnce");
                 if (score > comparedScore && PlayerPrefs.GetString("LoopOnce").Equals("true"))
                 {
-                    //print("Type your name");
+                    //print("Type your name")
                     PlayerPrefs.SetString("GetName", Input.inputString);
+                    
+                    // Save the player's name from input and temporarily store current rank's data 
                     PlayerPrefs.SetInt("TempScore", PlayerPrefs.GetInt("Rank" + index + "Score"));
                     PlayerPrefs.SetString("TempName", PlayerPrefs.GetString("Rank" + index + "Name"));
+                    
+                    // Move the previous rank's data into the next rank
                     PlayerPrefs.SetInt("Rank" + index + "Score", PlayerPrefs.GetInt("GetScore"));
                     PlayerPrefs.SetString("Rank" + index + "Name", PlayerPrefs.GetString("GetName"));
+                    
+                    // Prevent further updates for this session
                     PlayerPrefs.SetInt("GetScore", PlayerPrefs.GetInt("TempScore"));
+                    
+                    // Swap the rank data for the current position
                     PlayerPrefs.SetString("GetName", PlayerPrefs.GetString("TempName"));
                     PlayerPrefs.SetString("LoopOnce", "false");
                 }
@@ -73,19 +81,20 @@ public class HighScoreScript : MonoBehaviour
                 }
             }
         }
+        // Update the displayed high score text
         SetText();
     }
+    // Save a specific player's name and score to the PlayerPrefs for the given rank
     public void SetScore(string playerName, int score)
     {
         PlayerPrefs.SetString("Rank" + rank + "Name", playerName);
         PlayerPrefs.SetInt("Rank" + rank + "Score", score);
     }
-
     public void SetText()
     {
         playerName = PlayerPrefs.GetString("Rank" + rank + "Name");
         score = PlayerPrefs.GetInt("Rank" + rank + "Score");
-        //scoreString.text = "Rank" + rank + ": Score: " + score + " " + playerName;
+        // Format and display the rank, score, and player name (currently excludes the name)        
         scoreString.text = "Rank" + rank + ": Score: " + score + " ";
     }
 }
