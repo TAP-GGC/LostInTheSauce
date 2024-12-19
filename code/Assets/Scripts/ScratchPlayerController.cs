@@ -1,8 +1,8 @@
 ﻿using UnityEngine;
-
+// Controls player movement, jumping, and wall interactions in a 2D game
 public class ScratchPlayerController : MonoBehaviour
 {
-    //float
+    //Player movement variables
     public float speed;        //default speed value for player movement
     public float jump;        //default jump value while not on the wall
     float moveVelocity;        //i can't remember what this variable is for but if i figure it out later i'll comment it in herpaderp
@@ -11,7 +11,7 @@ public class ScratchPlayerController : MonoBehaviour
     
     
     
-    //bool
+    //bool Player state variables
     public bool grounded;      //condition for if player is on the ground or not to prevent double jumping
     public bool onWall;        //condition for if player on the wall
     
@@ -22,11 +22,6 @@ public class ScratchPlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //movement with arrow keys, experimenting with addforce instead of translate
-        /** transform.Translate(Input.GetAxis("Horizontal") * Time.deltaTime * speed, 0f,
-             Input.GetAxis("Vertical") * Time.deltaTime);
-`        */
-
         SoundEffects se = new SoundEffects(); //TAISANN'S EDIT ALLOWS USE OF SOUND EFFECTS
        
        
@@ -36,35 +31,21 @@ public class ScratchPlayerController : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Space))
         {
             //if (grounded)
-            { //TAISANN EDIT THIS IN
+            {
                 se.soundEffect("JumpSFX");
                 rgb2d.linearVelocity = new Vector2(rgb2d.linearVelocity.x, jump);
-            } //TAISANN EDIT THIS IN
+            }
         }
         
         if (Input.GetKeyDown(KeyCode.Space))
         {
             if (onWall)
-            { //TAISANN EDIT THIS IN
+            {
                 se.soundEffect("JumpSFX");
                 rgb2d.linearVelocity = new Vector2(rgb2d.linearVelocity.x, jump);
-            }//TAISANN EDIT THIS IN
+            }
         }
     }
-
-    //check condition for grounded boolean
-    /**  void OnTriggerEnter2D()
-      {
-          grounded = true;
-      }
-  
-      void OnTriggerExit2D()
-      {
-          grounded = false;
-      }
-  
-     **/
-
     private void OnCollisionEnter2D(Collision2D col)
     {
         if (col.gameObject.CompareTag("Floor"))
