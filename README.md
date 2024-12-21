@@ -39,8 +39,8 @@ Taisann Kham,  Brittany Giordano, Edgar Alvarez.
 
 ## :mortar_board: Advisors
 <!-- name of the two professors overseeing your TAP class -->
-* Dr. Cengiz Gunay
-* Dr. Anca Doloc Mihu
+* Dr. Xin Xu
+* Dr. Wei Jin
 
 
 ## :page_with_curl: Project Description
