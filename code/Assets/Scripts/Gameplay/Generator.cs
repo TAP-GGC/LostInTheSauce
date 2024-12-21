@@ -1,4 +1,4 @@
-//This script generates a procedurally expanding tile-based level for a Unity game. It manages walls, platforms, and coins based on the player's vertical position. The level dynamically adjusts as the player progresses.
+//This script generates a procedurally expanding tile-based level for Lost in the Sauce. It manages walls, platforms, and coins based on the player's vertical position. The level dynamically adjusts as the player progresses.
 
 using System.Collections;
 using System.Collections.Generic;
