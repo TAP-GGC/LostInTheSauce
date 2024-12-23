@@ -139,12 +139,6 @@ public class Generator : MonoBehaviour
 
             platform = new Vector3Int(-3, y, 0);
             Rendered.SetTile(platform, groundTile);
-
-            //platform = new Vector3Int(2, y, 0);
-            //Rendered.SetTile(platform, groundTile);
-
-            //platform = new Vector3Int(2, y, 0);
-            //Rendered.SetTile(platform, groundTile);
         }
         else if (randNum == 13 || randNum == 15)
         {
@@ -155,9 +149,6 @@ public class Generator : MonoBehaviour
 
             platform = new Vector3Int(-1, y, 0);
             Rendered.SetTile(platform, groundTile);
-
-            //platform = new Vector3Int(3, y, 0);
-            //Rendered.SetTile(platform, groundTile);
         }
         else if (randNum == 17 || randNum == 19 )
         {
@@ -165,21 +156,6 @@ public class Generator : MonoBehaviour
             Debug.Log("init 10 wall");
             platform = new Vector3Int(-1, y, 0);
             Rendered.SetTile(platform, groundTile);
-            //platform = new Vector3Int(-3, y, 0);
-            //Rendered.SetTile(platform, groundTile);
-
-            //platform = new Vector3Int(-2, y, 0);
-            //Rendered.SetTile(platform, groundTile);
-
-
-            //platform = new Vector3Int(3, y, 0);
-            //Rendered.SetTile(platform, groundTile);
-
-            //platform = new Vector3Int(2, y, 0);
-            //Rendered.SetTile(platform, groundTile);
-
-            //platform = new Vector3Int(1, y, 0);
-            //Rendered.SetTile(platform, groundTile);
         }
     }
 
