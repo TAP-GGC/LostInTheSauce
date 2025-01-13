@@ -27,7 +27,7 @@ Lost In The Sauce is an unity made game that aims to teach basic coding fundamen
 * <b>Your Main Technology</b> Windows computer, keyboard, Unity engine, java. 
 * [Technology Ambassador Program](https://tapggc.org/) <b>(TAP)</b> is a project-based class that provides a collaborative environment for students to work with their fellow classmates on a semester-long project using technologies of their choice. TAP strives to increase participation in IT through numerous outreach activities and workshops that are designed to showcase the creative and fun side of technology.
 <!-- Commercial Video stored in the Media folder will be linked here -->
-
+* Below is a 30 second commercial showcasing Lost in the Sauce. 
 [commercial](https://github.com/user-attachments/assets/11dc4ed0-8707-4076-97a4-d0951b16afc8)
 
 <!-- videos can also be dragged and dropped into markdown files if you want them embedded -->
