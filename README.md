@@ -28,7 +28,10 @@ Lost In The Sauce is an unity made game that aims to teach basic coding fundamen
 * [Technology Ambassador Program](https://tapggc.org/) <b>(TAP)</b> is a project-based class that provides a collaborative environment for students to work with their fellow classmates on a semester-long project using technologies of their choice. TAP strives to increase participation in IT through numerous outreach activities and workshops that are designed to showcase the creative and fun side of technology.
 <!-- Commercial Video stored in the Media folder will be linked here -->
 * Below is a 30 second commercial showcasing Lost in the Sauce. 
-[commercial](https://github.com/user-attachments/assets/11dc4ed0-8707-4076-97a4-d0951b16afc8)
+
+https://github.com/user-attachments/assets/b74bc19d-e149-4517-9abf-ab1174eb6517
+
+* This commercial showcases gameplay of Lost in the Sauce as well as behind the scenes on how Lost in the Sauce is made using Unity Engine and code!
 
 <!-- videos can also be dragged and dropped into markdown files if you want them embedded -->
 
@@ -48,11 +51,12 @@ Lost In The Sauce is an interactive 2D platformer that aims to teach students ab
 
 ## :open_hands: Outreach
 <b>Tap Expo</b></p>
-<img src= "https://github.com/user-attachments/assets/a72637dd-b094-4fbb-8ec3-a74587b4b3b3" width="500"/> </p>
+<img src= "https://github.com/user-attachments/assets/a72637dd-b094-4fbb-8ec3-a74587b4b3b3" /> </p>
 1. <b>TAP Expo</b>, April 1, 2019, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP. </p>
 <b>STaRS</b> </p>
-<img src= "https://github.com/user-attachments/assets/0ffd0a5e-f3d3-4c66-843a-875a455dedd9" width="500"> </p>
+
 2. <b>STaRS 2019</b>, April 9, 2019, Georgia Gwinnett College: to promote the IT field to non-IT students ranging from 3-5th.
+![STaRS 2019](https://github.com/user-attachments/assets/5035c5b9-34d4-4811-b865-c5bcfb008355)
 
 ## :mag_right: Similar Projects
 If you're interested in more workshops that utilize the Unity engine, check out [SliceIT](https://github.com/TAP-GGC/SliceIT)!
