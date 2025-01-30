@@ -21,7 +21,7 @@ Lost In The Sauce is an unity made game that aims to teach basic coding fundamen
 ## :bulb: Project Information
 * <b>Difficulty Level:</b> Intermediate
 * <b>Target Audience:</b> highschool - College
-* <b>Duration of Workshop:</b> 3 hours
+* <b>Duration of Workshop:</b> 2 hours
 * <b>Needed Materials:</b> Computer (windows 11 or 10)
 * <b>Learning Outcomes:</b> The primary goal of this project is to teach participants the basic fundamentals of coding and how it relates to game development.
 * <b>Your Main Technology</b> Windows computer, keyboard, Unity engine, java. 
@@ -47,7 +47,7 @@ Taisann Kham,  Brittany Giordano, Edgar Alvarez.
 
 
 ## :page_with_curl: Project Description
-Lost In The Sauce is an interactive 2D platformer that aims to teach students about the fundamentals of coding such as if and else statements and relating it to game development within the unity engine. In the game the player will have to jump along walls and platforms in order to progress through the upward scrolling level. As the player moves through the game, their task will be to collect as many points as they can (collect the falling ice cream cones) before they reach the bottom of the screen which ends the game. Before students get to play the game, they must first import the games files into Unity Hub and run the code. This project is meant to teach students the basics of C# coding including basic if/else statements as well as for loops. This game will help students understand how games are developed with the use of coding, and is meant to inspire the students to try and create their own code as well as games.
+Lost In The Sauce is an interactive 2D platformer that aims to teach students about the fundamentals of coding such as if and else statements and relating it to game development within the unity engine. In the game the player will have to jump along walls and platforms in order to progress through the upward scrolling level. As the player moves through the game, their task will be to collect as many points as they can (collect the falling ice cream cones) before they reach the bottom of the screen which ends the game. Before students get to play the game, they must first import the games files into Unity Hub and run the code. This project is meant to teach students the basics of C# coding including basic if/else statements as well as for loops. This game will help students understand how games are developed with the use of coding, and is meant to inspire the students to try and create their own Unity games with the coding and unity knowledge learned.
 
 ## :open_hands: Outreach
 <b>Tap Expo</b></p>
@@ -75,13 +75,13 @@ If you're interested in more workshops that utilize the Unity engine, check out 
 ## Project Setup/Installation 
 
 ### Installing Unity Hub
-[Click here to view instructions](https://github.com/user-attachments/files/17636777/Installing.Unity.Hub.pdf) <br>
+[Click here to view PDF instructions](https://github.com/user-attachments/files/17636777/Installing.Unity.Hub.pdf) <br>
 [Click here to view video intructions](https://github.com/user-attachments/assets/00514202-8540-42b9-94b1-b793dbd76e12)
 
 
 
 ### Setting up game in Unity Hub 
-[Click here to view instructions](https://github.com/user-attachments/files/17842940/UnityHub.Game.Setup.2.pdf)
+[Click here to view PDF instructions](https://github.com/user-attachments/files/17842940/UnityHub.Game.Setup.2.pdf)
 
 ### Workshop PowerPoint
 [Lost in the Sauce Workshop](https://github.com/user-attachments/files/18041171/Lost.in.the.Sauce.Workshop.pdf)
