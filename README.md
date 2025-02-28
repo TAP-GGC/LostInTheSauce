@@ -86,6 +86,13 @@ If you're interested in more workshops that utilize the Unity engine, check out 
 ### Workshop PowerPoint
 [Lost in the Sauce Workshop](https://github.com/user-attachments/files/18041171/Lost.in.the.Sauce.Workshop.pdf)
 
+### Code Walkthrough Tutorial Videos
+[Code Walkthrough Part 1](https://github.com/user-attachments/assets/a06d428b-5f96-46fb-8d41-d91c74282d46) <br>
+[Code Walkthrough Part 2](https://github.com/user-attachments/assets/ac774968-1aa5-441b-bcb7-2ed9f7e5ef8c) <br>
+[Code Walkthrough Part 3](https://github.com/user-attachments/assets/c2e796e6-0749-4efc-b681-6d7e64458801)
+
+
+
 
 
 ## How To Play
