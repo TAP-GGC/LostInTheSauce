@@ -88,7 +88,7 @@ If you're interested in more workshops that utilize the Unity engine, check out 
 ### Unity Hub PowerPoint tutorial can be found under "Workshop Powerpoint".
 
 ### Workshop PowerPoint
-[Lost in the Sauce Workshop](https://github.com/userattachments/files/19076375/Lost.in.the.Sauce.Workshop.pptx)
+[Lost in the Sauce Workshop.pptx](https://github.com/user-attachments/files/19299783/Lost.in.the.Sauce.Workshop.pptx)
 
 ###For help with code view "Code Walkthrough Instructions" below:
 
