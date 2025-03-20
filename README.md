@@ -51,11 +51,14 @@ Lost In The Sauce is an interactive 2D platformer that aims to teach students ab
 
 ## :open_hands: Outreach
 <b>Tap Expo</b></p>
+1. <b>TAP Expo</b>, April 1 – April 30, 2019. Georgia Gwinnett College. Class Workshops: Conducted workshops in general education IT courses to promote IT field to GGC students
 <img src= "https://github.com/user-attachments/assets/a72637dd-b094-4fbb-8ec3-a74587b4b3b3" /> </p>
-1. <b>TAP Expo</b>, April 1, 2019, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP. </p>
+
+
+ </p>
 <b>STaRS</b> </p>
 
-2. <b>STaRS 2019</b>, April 9, 2019, Georgia Gwinnett College: to promote the IT field to non-IT students ranging from 3-5th.
+2. <b>STaRS 2019</b>, April 9, 2019, Georgia Gwinnett College. Poster Presentation: Lost In the Sauce which summarized the game project and presented the preliminary survey results from the  workshops.
 ![STaRS 2019](https://github.com/user-attachments/assets/5035c5b9-34d4-4811-b865-c5bcfb008355)
 
 ## :mag_right: Similar Projects
