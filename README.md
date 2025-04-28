@@ -3,8 +3,8 @@
 <!-- If you used Canva to make your icon and don't want to pay for a background remover, you can use the website https://www.remove.bg/ to do so -->
 <p align="center">
  
-  
-<img src = "https://github.com/user-attachments/assets/32767d89-7eb6-4deb-9c14-c918696917e7" width="350"/>
+ <img src= "https://github.com/user-attachments/assets/7aac6910-78c2-4ec5-bfba-669d86f6586c" width="350">
+
 
   <h1 align="center">Lost In The Sauce (A hands on experience with Unity and programming fundamentals)</h1>
   <p align="center">A project for middle school to college by team Sauce </p>
@@ -67,7 +67,8 @@ If you're interested in more workshops that utilize the Unity engine, check out 
 ## :computer: Technology
 <!-- be sure to use the alt text feature in case anybody viewing your repo is using  screen reader! you want your workshop to be as accessible as possible -->
 <p align="center">
-  <img src = "https://github.com/user-attachments/assets/bde7f70e-f21c-4bf6-af02-81b6c79b2b9f" width="500" height="300"/>
+ <img src = "https://github.com/user-attachments/assets/730e475a-0c69-4b29-bc32-315eda09edc3" width = "500"
+
 </p>
 
 * [Unity](https://unity.com/) is a powerful, cross-platform game engine used for creating 2D, 3D, augmented reality (AR), and virtual reality (VR) experiences. It offers a user-friendly development environment with a robust set of features including real-time rendering, physics engines, animation, and audio systems, making it suitable for both beginners and advanced developers. Unity supports a wide range of platforms, such as mobile, desktop, web, and consoles, allowing developers to build and deploy applications across various devices seamlessly. Additionally, it has a large asset store, extensive documentation, and an active community, which makes it easier to find resources, assets, and support for projects of any size. It's widely used in gaming but is also popular in other fields like education, architecture, simulation, and interactive media.
