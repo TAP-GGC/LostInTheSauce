@@ -52,7 +52,8 @@ Lost In The Sauce is an interactive 2D platformer that aims to teach students ab
 ## :open_hands: Outreach
 <b>Tap Expo</b></p>
 1. <b>TAP Expo</b>, April 1 – April 30, 2019. Georgia Gwinnett College. Class Workshops: Conducted workshops in general education IT courses to promote IT field to GGC students
-<img src= "https://github.com/user-attachments/assets/a72637dd-b094-4fbb-8ec3-a74587b4b3b3" /> </p>
+<img src= "https://github.com/user-attachments/assets/31981638-0f13-4407-a63c-92896e2a7c0c" width="1000" />
+</p>
 
 
  </p>
