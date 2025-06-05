@@ -82,14 +82,14 @@ If you're interested in more workshops that utilize the Unity engine, check out 
 ### For instructions on installing UnityHub, view the links under :Installing Unity Hub"
 
 ### Installing Unity Hub
-[Click here to view PDF instructions](https://github.com/user-attachments/files/20618123/Installing.Unity.Hub-4.1.pdf)
-) <br>
+[Click here to view PDF instructions](https://github.com/user-attachments/files/20618123/Installing.Unity.Hub-4.1.pdf) <br>
 [Click here to view video intructions](https://github.com/user-attachments/assets/ce0ceda3-9a46-4d25-a4ff-b75c111db146)
 
 ### for game file installation for Lost in the Sauce view link under "Setting up game in Unity Hub"
 
 ### Setting up game in Unity Hub 
-[Click here to view PDF instructions](https://github.com/user-attachments/files/17842940/UnityHub.Game.Setup.2.pdf)
+[Click here to view PDF instructions](https://github.com/user-attachments/files/20618153/UnityHub.Game.Setup.1.pdf)
+
 
 ### Unity Hub PowerPoint tutorial can be found under "Workshop Powerpoint".
 
